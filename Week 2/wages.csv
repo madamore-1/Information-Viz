@@ -1,0 +1,101 @@
+RK,Player,Nation,Pos,Squad,Age,Weekly Wages,Annual Wages
+1,Frenkie de Jong,NED,CM,Barcelona,27,804019.0,41808988.0
+2,Robert Lewandowski,POL,FW,Barcelona,35,714612.0,37159824.0
+3,Kylian Mbappe,FRA,FW,Real Madrid,25,670016.0,34840832.0
+4,Harry Kane,ENG,FW,Bayern Munich,31,536012.0,27872624.0
+5,Kevin De Bruyne,BEL,MF,Manchester City,33,523631.0,27228812.0
+6,Erling Haaland,NOR,FW,Manchester City,24,490904.0,25527008.0
+7,David Alaba,AUT,CB,Real Madrid,32,482411.0,25085372.0
+8,Dusan Vlahovic,SRB,FW,Juventus,24,476408.0,24773216.0
+9,Casemiro,BRA,MF,Manchester Utd,32,458177.0,23825204.0
+10,Mohamed Salah,EGY,FW,Liverpool,32,458177.0,23825204.0
+11,Manuel Neuer,GER,GK,Bayern Munich,38,450250.0,23413000.0
+12,Jude Bellingham,ENG,MF,Real Madrid,21,446606.0,23223512.0
+13,Vinicius Junior,BRA,FW,Real Madrid,24,446606.0,23223512.0
+14,Jan Oblak,SVN,GK,Atletico Madrid,31,446606.0,23223512.0
+15,Thomas Muller,GER,MF,Bayern Munich,34,439530.0,22855560.0
+16,Ousmane Dembele,FRA,FW,Paris S-G,27,428810.0,22298120.0
+17,Leroy Sane,GER,RW,Bayern Munich,28,428810.0,22298120.0
+18,Joshua Kimmich,GER,"DF,MF",Bayern Munich,29,418090.0,21740680.0
+19,Lucas Hernandez,FRA,LB,Paris S-G,28,407369.0,21183188.0
+20,Serge Gnabry,GER,"MF,FW",Bayern Munich,29,404582.0,21038264.0
+21,Bruno Fernandes,POR,"MF,FW",Manchester Utd,29,392723.0,20421596.0
+22,Marcus Rashford,ENG,FW,Manchester Utd,26,392723.0,20421596.0
+23,Bernardo Silva,POR,"MF,FW",Manchester City,29,392723.0,20421596.0
+24,Jack Grealish,ENG,FW,Manchester City,28,392723.0,20421596.0
+25,Leon Goretzka,GER,DF,Bayern Munich,29,385929.0,20068308.0
+26,Kai Havertz,GER,FW,Arsenal,25,366542.0,19060184.0
+27,Kingsley Coman,FRA,"MF,FW",Bayern Munich,28,364488.0,18953376.0
+28,Marquinhos,BRA,CB,Paris S-G,30,360200.0,18730400.0
+29,Lautaro Martinez,ARG,FW,Inter,26,357413.0,18585476.0
+30,Federico Valverde,URU,MF,Real Madrid,26,357413.0,18585476.0
+31,Milan Skriniar,SVK,"DF,MF",Paris S-G,29,350767.0,18239884.0
+32,Gabriel Jesus,BRA,FW,Arsenal,27,346906.0,18039112.0
+33,Mason Mount,ENG,MF,Manchester Utd,25,327269.0,17017988.0
+34,John Stones,ENG,MF,Manchester City,30,327269.0,17017988.0
+35,Reece James,ENG,RB,Chelsea,24,327269.0,17017988.0
+36,Thibaut Courtois,BEL,GK,Real Madrid,32,321607.0,16723564.0
+37,Declan Rice,ENG,MF,Arsenal,25,314179.0,16337308.0
+38,Martin Odegaard,NOR,MF,Arsenal,25,314179.0,16337308.0
+39,Antonio Rudiger,GER,DF,Real Madrid,31,312602.0,16255304.0
+40,Eder Militao,BRA,DF,Real Madrid,26,312602.0,16255304.0
+41,Achraf Hakimi,MAR,DF,Paris S-G,25,311959.0,16221868.0
+42,Marco Asensio,ESP,"FW,MF",Paris S-G,28,311959.0,16221868.0
+43,Ansu Fati,ESP,LW,Barcelona,21,299095.0,15552940.0
+44,Phil Foden,ENG,FW,Manchester City,24,294542.0,15316184.0
+45,Jules Kounde,FRA,DF,Barcelona,25,290510.0,15106520.0
+46,Michael Olise,FRA,"FW,MF",Bayern Munich,22,289447.0,15051244.0
+47,Virgil van Dijk,NED,DF,Liverpool,33,287997.0,14975844.0
+48,Rodri,ESP,"DF,MF",Manchester City,28,287997.0,14975844.0
+49,Victor Osimhen,NGA,CF,Napoli,25,274867.0,14293084.0
+50,Gianluigi Donnarumma,ITA,GK,Paris S-G,25,272938.0,14192776.0
+51,Randal Kolo Muani,FRA,FW,Paris S-G,25,272938.0,14192776.0
+52,Raphinha,BRA,"FW,MF",Barcelona,27,268006.0,13936312.0
+53,Aurelien Tchouameni,FRA,MF,Real Madrid,24,268006.0,13936312.0
+54,Eduardo Camavinga,FRA,CM,Real Madrid,21,268006.0,13936312.0
+55,Rodrygo,BRA,FW,Real Madrid,23,268006.0,13936312.0
+56,Antoine Griezmann,FRA,"FW,MF",Atletico Madrid,33,268006.0,13936312.0
+57,Thomas Partey,GHA,MF,Arsenal,31,261816.0,13614432.0
+58,Antony,BRA,FW,Manchester Utd,24,261816.0,13614432.0
+59,Josko Gvardiol,CRO,DF,Manchester City,22,261816.0,13614432.0
+60,Ben Chilwell,ENG,LB,Chelsea,27,261816.0,13614432.0
+61,Wesley Fofana,FRA,DF,Chelsea,23,261816.0,13614432.0
+62,Nicolo Barella,ITA,MF,Inter,27,258144.0,13423488.0
+63,Kim Min-jae,KOR,DF,Bayern Munich,27,257286.0,13378872.0
+64,Bukayo Saka,ENG,"FW,MF",Arsenal,22,255270.0,13274040.0
+65,Matthijs de Ligt,NED,DF,Manchester Utd,24,255270.0,13274040.0
+66,Christopher Nkunku,FRA,FW,Chelsea,26,255270.0,13274040.0
+67,William Saliba,FRA,DF,Arsenal,23,248725.0,12933700.0
+68,Harry Maguire,ENG,DF,Manchester Utd,31,248725.0,12933700.0
+69,Son Heung-min,KOR,FW,Tottenham,32,248725.0,12933700.0
+70,Nacho,ESP,CB,Real Madrid,34,245708.0,12776816.0
+71,Inaki Williams,GHA,FW,Athletic Club,30,244422.0,12709944.0
+72,Alphonso Davies,CAN,DF,Bayern Munich,23,241206.0,12542712.0
+73,Hakan Calhanoglu,TUR,MF,Inter,30,238204.0,12386608.0
+74,Gabriel Martinelli,BRA,"FW,MF",Arsenal,23,235634.0,12252968.0
+75,Trent Alexander-Arnold,ENG,DF,Liverpool,25,235634.0,12252968.0
+76,Manuel Akanji,SUI,DF,Manchester City,29,235634.0,12252968.0
+77,Ruben Dias,POR,DF,Manchester City,27,235634.0,12252968.0
+78,Enzo Fernandez,ARG,MF,Chelsea,23,235634.0,12252968.0
+79,Kyle Walker,ENG,DF,Manchester City,34,229089.0,11912628.0
+80,Marc Cucurella,ESP,DF,Chelsea,26,229089.0,11912628.0
+81,Nico Williams,ESP,FW,Athletic Club,22,223410.0,11617320.0
+82,Dani Ceballos,ESP,MF,Real Madrid,27,223410.0,11617320.0
+83,Dani Carvajal,ESP,DF,Real Madrid,32,223410.0,11617320.0
+84,Ferland Mendy,FRA,DF,Real Madrid,29,223410.0,11617320.0
+85,Luka Modric,CRO,MF,Real Madrid,38,223410.0,11617320.0
+86,James Maddison,ENG,MF,Tottenham,27,222543.0,11572236.0
+87,Alessandro Bastoni,ITA,DF,Inter,25,218479.0,11360908.0
+88,Cristian Romero,ARG,DF,Tottenham,26,215998.0,11231896.0
+89,Timo Werner,GER,"FW,MF",Tottenham,28,215998.0,11231896.0
+90,Ferran Torres,ESP,FW,Barcelona,24,214405.0,11149060.0
+91,Dayot Upamecano,FRA,DF,Bayern Munich,25,214405.0,11149060.0
+92,Joao Palhinha,POR,MF,Bayern Munich,29,214405.0,11149060.0
+93,Niklas Sule,GER,DF,Dortmund,28,214405.0,11149060.0
+94,Raheem Sterling,ENG,LW,Arsenal,29,212725.0,11061700.0
+95,Andrew Robertson,SCO,DF,Liverpool,30,209452.0,10891504.0
+96,Bruno Guimaraes,BRA,MF,Newcastle Utd,26,209452.0,10891504.0
+97,Nathan Ake,NED,DF,Manchester City,29,209452.0,10891504.0
+98,Serhou Guirassy,GUI,CF,Dortmund,28,202184.0,10513568.0
+99,Dani Olmo,ESP,MF,Barcelona,26,201112.0,10457824.0
+100,Inigo Martinez,ESP,DF,Barcelona,33,201112.0,10457824.0
