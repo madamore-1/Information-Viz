@@ -61,8 +61,7 @@ plot(postage$Year, postage$Price, type="s",
 
 #part 2
 # Load the data
-art_D <- file.choose()
-art_data <- read.csv(art_D)
+art_data <- read.csv("path_to_your_art.csv")  # Replace with the actual path or use file.choose() if running interactively
 
 # Set up the 2x2 plotting space
 par(mfrow=c(2,2))
@@ -75,15 +74,19 @@ hist(art_data$total.sale,
      col="skyblue", 
      border="white")
 
-# Plot 2: Boxplot of total.sale
-boxplot(art_data$total.sale, 
-        main="Boxplot of Total Sales",
-        ylab="Total Sales", 
-        col="lightgreen")
+# Plot 2: Density plot of total.sale
+density_plot <- density(art_data$total.sale)
+plot(density_plot, 
+     main="Density Plot of Total Sales",
+     xlab="Total Sales", 
+     ylab="Density", 
+     col="purple")
+
+# Filtering data for drawing paper and watercolor paper
+drawing_paper_sales <- art_data$total.sale[art_data$paper_type == "Drawing Paper"]  # adjust the condition based on your dataset
+watercolor_paper_sales <- art_data$total.sale[art_data$paper_type == "Watercolor Paper"]  # adjust the condition based on your dataset
 
 # Plot 3: Density plot for drawing paper
-length(drawing_paper_sales)
-
 if (length(drawing_paper_sales) > 1) {
   plot(density(drawing_paper_sales), 
        main="Density of Total Sales for Drawing Paper",
