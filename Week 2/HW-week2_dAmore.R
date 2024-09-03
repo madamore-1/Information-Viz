@@ -63,11 +63,11 @@ plot(postage$Year, postage$Price, type="s",
 
 
 #part 2
-# Load the data
+# Load data
 art_D <- file.choose()  
 art_data <- read.csv(art_D)
 
-# Plot 1: Histogram of total.sale
+# Plot 1: Histogram of total sale
 hist(art_data$total.sale, 
      main="Histogram of Total Sales",
      xlab="Total Sales", 
@@ -83,7 +83,7 @@ plot(density_plot,
      ylab="Density", 
      col="purple",cex.main=.65,cex.lab=0.5)
 
-# Filtering data for drawing paper and watercolor paper
+# Filtering data
 drawing_paper_sales <- art_data$total.sale[art_data$paper == "drawing"]  
 watercolor_paper_sales <- art_data$total.sale[art_data$paper == "watercolor"] 
 
